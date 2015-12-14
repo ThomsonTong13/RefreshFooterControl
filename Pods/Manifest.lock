@@ -1,0 +1,25 @@
+PODS:
+  - Box (2.0)
+  - Masonry (0.6.3)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - Result (1.0.0)
+
+DEPENDENCIES:
+  - Box
+  - Masonry
+  - ReactiveCocoa
+  - Result
+
+SPEC CHECKSUMS:
+  Box: 70713ca3679e4e11ad4c470e9b58265f506fc659
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  Result: feaaff535eb59c414c6c7f95e6145ab991b1b07f
+
+COCOAPODS: 0.39.0
